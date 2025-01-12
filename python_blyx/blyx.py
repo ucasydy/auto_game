@@ -63,16 +63,30 @@ class Hero:
             lp = win32api.MAKELONG(x0, y0)
 
             px, py = 0,0
-            if dir == "w":
-                px, py = x0, y0 - 30
+            if   dir == 'w':
+                px, py = x0 , y0-0.3*w
+            elif dir == 'a':
+                px, py = x0-0.3*w , y0
+            elif dir == 's':
+                px, py = x0 , y0+0.3*w
+            elif dir == 'd':
+                px, py = x0+0.3*w , y0
+            elif dir == 'wa'or dir == 'aw':
+                px, py = x0-0.3*w, y0-0.3*w/h*w
+            elif dir == 'wd' or dir == 'dw':
+                px, py = x0+0.3*w , y0-0.3*w/h*w
+            elif dir == 'sa'or dir == 'as':
+                px, py = x0-0.3*w , y0+0.3*w/h*w
+            elif dir == 'sd'or dir == 'ds':
+                px, py = x0+0.3*w , y0+0.3*w/h*w
             
             lp2 = win32api.MAKELONG(int(px),int(py))
             #鼠标按下lp位置
             self.do_click(0.5*w, 0.98*h,flag)
-            my_time_sleep(0.05, flag)
+            my_time_sleep(0.02, flag)
             win32api.SendMessage(self.hwnd, win32con.WM_LBUTTONDOWN, 0, lp)
             #鼠标移动到 lp2位置
-            my_time_sleep(0.05, flag)
+            my_time_sleep(0.02, flag)
             win32api.SendMessage(self.hwnd, win32con.WM_MOUSEMOVE, 0, lp2)
             #鼠标保持时间
             my_time_sleep(move_time,flag)
