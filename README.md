@@ -26,3 +26,11 @@
 通过网盘分享的文件：DeepYo_test_0.3.1.exe  
 链接: https://pan.baidu.com/s/1c3tUzS4nfipcIbed7SdmEg?pwd=5f8h  
 提取码: 5f8h
+
+
+### 2025年3月3日 更新程序：版本DeepYo_test_0.4
+1.新增 树精+火焰石头人+牛头人刷金币
+
+通过网盘分享的文件：DeepYo_test_0.4.exe
+链接: https://pan.baidu.com/s/1Tr1VLuOZ0cgC7GNFTNLA1Q?pwd=3jiu 
+提取码: 3jiu
