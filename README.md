@@ -42,3 +42,11 @@
 通过网盘分享的文件：DeepYo_test_0.4.exe  
 链接: https://pan.baidu.com/s/1Tr1VLuOZ0cgC7GNFTNLA1Q?pwd=3jiu   
 提取码: 3jiu
+
+### 2025年3月22日 更新程序：版本DeepYo_test_0.5
+1.优化F4刷金币 传送至2-1 错误
+2.新增拾取宝箱功能，每2秒自动检查一次地图上的放大镜，并点击
+  
+通过网盘分享的文件：DeepYo_test_0.5.exe  
+链接: https://pan.baidu.com/s/1WDsNoMgbg9IiFdf7MrpyNQ?pwd=apn9  
+提取码: apn9  
