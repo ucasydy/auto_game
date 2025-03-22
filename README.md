@@ -48,5 +48,5 @@
 2.新增拾取宝箱功能，每2秒自动检查一次地图上的放大镜，并点击（不会看广告，优先点击直接领取）  
   
 通过网盘分享的文件：DeepYo_test_0.5.exe  
-链接: https://pan.baidu.com/s/1WDsNoMgbg9IiFdf7MrpyNQ?pwd=apn9  
-提取码: apn9  
+链接: https://pan.baidu.com/s/1pjPhhDgxmL7edNgPOdgReg?pwd=pt23   
+提取码: pt23  
